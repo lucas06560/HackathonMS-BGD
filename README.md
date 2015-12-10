@@ -22,7 +22,7 @@ Site the-numbers.com pour les statistiques financières sur des films
 <br/>
 
 ### Prédiction de la rentabilité : Combien de $ gagnés pour 1$ dépensé ?
-<p>Un film d'action avec <u>Clint Eastwood</u>, <u>Evangeline Lilly</u> et <u>Charlie Sheen</u> : <b>4.53</b> de rentabilité </p>
+<p>Exemple d'un film d'action avec <u>Clint Eastwood</u>, <u>Evangeline Lilly</u> et <u>Charlie Sheen</u> : <b>4.53</b> de rentabilité </p>
 
 <br/>
 
