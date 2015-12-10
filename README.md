@@ -4,17 +4,26 @@
 ## Description
 <p> Je suis PDG de la W.B, quel est le prochain film que je dois financer ? </p>
 <p> Durée -> 9h </p>
+
+
+### Notre objectif
+"Décris-moi un film, je te prédis sa rentabilité"
+<br/>
+
 ### Axes d'etudes
 <p> Recuperation / Crawling : </p>
+	<b>Site the-numbers.com pour les statistiques financières sur des films</b>
   <ul><ul><li> http://www.the-numbers.com/movie/budgets/all </li></ul></ul>
   <ul><ul><li> http://www.the-numbers.com/market/{year}/top-grossing-movies </li></ul></ul>
+	<b>Site imdb pour toutes les informations sur les films (acteurs, genre, notation ...)</b>
   <ul><ul><li> http://www.imdb.com/ </li></ul></ul>
 
+<br/>
 
 ### Prédiction de la rentabilité : Combien de $ gagnés pour 1$ dépensé ?
 <p>Un film d'action avec <u>Clint Eastwood</u>, <u>Evangeline Lilly</u> et <u>Charlie Sheen</u> : <b>4.53</b> de rentabilité </p>
 
-
+<br/>
 
 ### Améliorations :
   <ul><ul><li> Plus de données ! </li></ul></ul>
