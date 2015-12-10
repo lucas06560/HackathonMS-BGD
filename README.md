@@ -24,10 +24,10 @@
 ### Prédiction de la rentabilité : Combien de $ gagnés pour 1$ dépensé ?
 <p>Exemple d'un film d'action avec <u>Clint Eastwood</u>, <u>Evangeline Lilly</u> et <u>Charlie Sheen</u> : <b>4.53</b> de rentabilité </p>
 ### Résultat
-<p> Popularité des different genre </p>
+<p> Popularité des differents genres </p>
 ![alt tag](https://github.com/lucas06560/HackathonMS-BGD/blob/master/tendance.png)
 
-<p> Ici on a recuperer la prediction obtenu par notre model afin de pouvoir connaitre le genre du film à produire  </p>
+<p> Ici on a recuperé la prediction obtenue par notre model afin de pouvoir connaitre le genre du film à produire  </p>
 ![alt tag](https://github.com/lucas06560/HackathonMS-BGD/blob/master/prediction.png)
 
 <br/>
