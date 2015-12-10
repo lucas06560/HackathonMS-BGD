@@ -12,7 +12,8 @@
 
 ### Axes d'etudes
 <p> Recuperation / Crawling : </p>
-	<p>Site the-numbers.com pour les statistiques financières sur des films</p>
+Site the-numbers.com pour les statistiques financières sur des films
+	<p></p>
   <ul><ul><li> http://www.the-numbers.com/movie/budgets/all </li></ul></ul>
   <ul><ul><li> http://www.the-numbers.com/market/{year}/top-grossing-movies </li></ul></ul>
 	<p>Site imdb pour toutes les informations sur les films (acteurs, genre, notation ...)</p>
