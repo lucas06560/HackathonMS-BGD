@@ -28,7 +28,7 @@
 ![alt tag](https://github.com/lucas06560/HackathonMS-BGD/blob/master/tendance.png)
 
 <p> Ici on a recuperer la prediction obtenu par notre model afin de pouvoir connaitre le genre du film à produire  </p>
-![alt tag](https://github.com/lucas06560/HackathonMS-BGD/blob/master/tendance.png)
+![alt tag](https://github.com/lucas06560/HackathonMS-BGD/blob/master/prediction.png)
 
 <br/>
 
