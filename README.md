@@ -11,4 +11,4 @@
   <ul><ul><li> http://www.imdb.com/ </li></ul></ul>
 
 ### Prédiction de la rentabilité : Combien de $ gagnés pour 1$ dépensé ?
-<p> Un film d'action avec Clint Eastwood, Evangeline lilly et Charlie Sheen : <b>4.53</b> de rentabilité </p>
+<p>Un film d'action avec <u>Clint Eastwood</u>, <u>Evangeline Lilly</u> et <u>Charlie Sheen</u> : <b>4.53</b> de rentabilité </p>
