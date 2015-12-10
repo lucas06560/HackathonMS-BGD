@@ -6,4 +6,4 @@
 <p> Durée > 9h </p>
 ### Axes d'etudes
 <p> Recuperation / Crawling : </p>
-  <li> tt </li>
+  <ul><li> tt </li></ul>
