@@ -2,7 +2,7 @@
 
 
 ## Description
-<p> Je suis PDG de la W.B, quel est le prochain film que je dois financer ? </p>
+<p> Je suis PDG de la Warner Bros, quel est le prochain film que je dois financer ? </p>
 <p> Durée -> 9h </p>
 <p> 2 étudiants -> <a href="https://github.com/Lahw">Yann Carbonne</a> / <a href="https://github.com/lucas06560">Lucas Weissert</a> </p>
 
@@ -11,7 +11,7 @@
 <br/>
 
 ### Axes d'etudes
-<p> Recuperation / Crawling : </p>
+<p> Récupération / Crawling : </p>
 <ul>Site the-numbers.com pour les statistiques financières sur des films</ul>
 
   <ul><ul><li> http://www.the-numbers.com/movie/budgets/all </li></ul></ul>
@@ -26,7 +26,7 @@
 <code>getRentability('Action', ['Clint Eastwood','Evangeline Lilly', 'Charlie Sheen'])</code>
 <p>Film d'action avec <u>Clint Eastwood</u>, <u>Evangeline Lilly</u> et <u>Charlie Sheen</u> : <b>4.53</b> de rentabilité </p>
 ### Analyse graphique
-<p> Popularité des differents genres : </p>
+<p> Popularité des différents genres : </p>
 ![alt tag](https://github.com/lucas06560/HackathonMS-BGD/blob/master/tendance.png)
 
 <p> Importance du genre de film dans notre algorithme de prédiction  </p>
