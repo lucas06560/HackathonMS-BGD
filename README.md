@@ -4,7 +4,7 @@
 ## Description
 <p> Je suis PDG de la Warner Bros, quel est le prochain film que je dois financer ? </p>
 <p> Durée -> 9h </p>
-<p> 2 étudiants -> <a href="https://github.com/Lahw">Yann Carbonne</a> / <a href="https://github.com/lucas06560">Lucas Weissert</a> </p>
+<p> 2 étudiants -> <a href="https://github.com/Lahw">Yann Carbonne</a> / <a href="https://github.com/lucasweiss">Lucas Weissert</a> </p>
 
 ### Notre objectif
 "Décris-moi un film, je te prédis sa rentabilité"
